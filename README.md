@@ -1,12 +1,13 @@
-# Intern- Data Science 
+# Intern - Data Science 
 
-Numpy
-Pandas
-Seaborn
-Matplotlib,plotty
-scikitlearn
-classification
-clustering
-association
-decision tree classification
-python
+- python
+- Numpy
+- Pandas
+- Seaborn
+- Matplotlib,plotty
+- scikitlearn
+- classification
+- clustering
+- association
+- decision tree, random forest
+
